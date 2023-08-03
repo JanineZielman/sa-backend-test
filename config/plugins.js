@@ -84,7 +84,7 @@ module.exports = {
             },
           },
           published: {
-            url: 'http://dev.sonicacts.com/{slug}',
+            url: 'http://dev.sonicacts.com/',
           },
         },
 				{
@@ -112,7 +112,7 @@ module.exports = {
             },
           },
           published: {
-            url: 'http://dev.sonicacts.com/{slug}',
+            url: 'http://dev.sonicacts.com/agenda/{slug}',
           },
         },
 				{
@@ -126,7 +126,7 @@ module.exports = {
             },
           },
           published: {
-            url: 'http://dev.sonicacts.com/{slug}',
+            url: 'http://dev.sonicacts.com/community/{slug}',
           },
         },
 				{
@@ -140,7 +140,7 @@ module.exports = {
             },
           },
           published: {
-            url: 'http://dev.sonicacts.com/{slug}',
+            url: 'http://dev.sonicacts.com/archive/{slug}',
           },
         },
 				{
@@ -154,7 +154,7 @@ module.exports = {
             },
           },
           published: {
-            url: 'http://dev.sonicacts.com/{slug}',
+            url: 'http://dev.sonicacts.com/news/{slug}',
           },
         },
       ],
